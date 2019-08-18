@@ -1,2 +1,2 @@
-# dagger2Android
+# dagger2
 Learning dagger2
